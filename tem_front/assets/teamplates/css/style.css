@@ -2455,7 +2455,7 @@ a:hover{
 .img-mobile img{
 	width: 12%;
 	position: absolute;
-	top: 100px;
+	top: 90px;
 	left: 44%;
 	border: 0.2em solid #2852c6;
 	border-radius: 50%;
@@ -2466,7 +2466,7 @@ a:hover{
 	.img-mobile img {
 	  width: 30%;
 	  left: 34%;
-	  top: 78px;
+	  top: 85px;
 	}
 	.box-ab-if div{
 		margin-top: 60px ;

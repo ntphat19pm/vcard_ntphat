@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//QR-Code-Generator.com//EN
 N:Phát;Nguyễn Tấn;;;
 FN:Nguyễn Tấn Phát
-ORG:ACT Brain Viet Nam;
+ORG:ACT BRAIN VIETNAM CORPORATION;
 TITLE:Lập trình viên
-EMAIL;TYPE=PER,INTERNET:phatag852@gmail.com
+EMAIL;TYPE=HOME,INTERNET:phatag852@gmail.com
 EMAIL;TYPE=WORK,INTERNET:phatnguyen@actbrain-vn.com
-TEL;TYPE=CELL,voice:0917663865
+TEL;TYPE=HOME,voice:0917663865
 TEL;TYPE=WORK,voice:0385111603
 TEL;TYPE=WORK,fax:
 ADR;TYPE=WORK;type=pref:;; ;;;;
